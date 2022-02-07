@@ -5,10 +5,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
 } 
 .whitebox {
   width: 250px;
-  height: 400px;
   background-color: white;
   border-radius: 7px;
   text-align: center;

@@ -8,6 +8,7 @@ body {
 } 
 .whitebox {
   width: 250px;
+  height: 400px;
   background-color: white;
   border-radius: 7px;
   text-align: center;

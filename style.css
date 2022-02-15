@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 body {
   background-color: hsl(212, 45%, 89%);
 }
@@ -12,9 +15,8 @@ body {
   background-color: white;
   border-radius: 7px;
   text-align: center;
-  /* margin: auto; */
   padding: 10px;
-  box-shadow: 3px 3px 0px 3px hsl(0, 0%, 100%);
+  box-shadow: 0 8px 16px rgb(0 0 0 / 10%)
 }
 .textone {
   color: hsl(218, 44%, 22%);

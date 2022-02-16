@@ -4,12 +4,13 @@
 body {
   background-color: hsl(212, 45%, 89%);
   font-family: 'Outfit', sans-serif;
+  margin: 0px;
 }
  .flex-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 97vh;
+  height: 100vh; /* height: 97px; for removing the scroll bar */
 } 
 .whitebox {
   width: 250px;
